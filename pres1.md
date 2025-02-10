@@ -1,3 +1,8 @@
+---
+author: Łukasz Stachnik
+date: dd-MM-YYYY
+---
+
 # Hello C!
 
 Język C, kilka najważnieszych faktów
